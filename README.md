@@ -5,7 +5,9 @@
 
 
 # REQUIREMENTS
-This framework requires the testing tool library developed by the company that is not provided in this repository.
+This framework requires the testing tool library developed by the company to run that is not provided in this repository. '
+The other libraries used are:
+
 1. xlrd
 2. PyQt4 
 3. threading
