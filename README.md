@@ -5,7 +5,13 @@
 
 
 # REQUIREMENTS
-1. Tensorflow
+This framework requires the testing tool library developed by the company that is not provided in this repository.
+1. xlrd
+2. PyQt4 
+3. threading
+4. logging
+5. struct
+6. socket
 
 # USAGE
 
