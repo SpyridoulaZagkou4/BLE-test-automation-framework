@@ -16,11 +16,6 @@ The other libraries used are:
 5. struct
 6. socket
 
-# USAGE
-
-
-
-
 
 # RESULTS
 ![image](https://user-images.githubusercontent.com/81852029/204503591-c94f567b-1d66-41c8-afbc-e3e996bc11fd.png)
