@@ -1,8 +1,3 @@
-### reference
-
-
-### steps
-
 
 # REQUIREMENTS
 This framework requires the 3VT testing tool library used by the company to run that is not provided in this repository. The Waves Validation Tool (WVT) – hereafter called 3VT – is a tool for the testing and validation of the RW Bluetooth IP systems.
