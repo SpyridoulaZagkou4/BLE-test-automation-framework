@@ -16,6 +16,18 @@ The other libraries used are:
 5. struct
 6. socket
 
+# USAGE
+## 1st step 
+Add parameters (DB address, CI, Latency, TO, ...) that test will take as input as is illustrated in the picture. The only restriction is to have block titles and titles for attributes and parameters.
+
+![image](https://user-images.githubusercontent.com/81852029/208056061-4ec360dd-1da6-4ead-863f-77eec1d91800.png)
+
+## 2nd step 
+Run python main script
+
+
+
+
 
 # RESULTS
 ![image](https://user-images.githubusercontent.com/81852029/204503591-c94f567b-1d66-41c8-afbc-e3e996bc11fd.png)
