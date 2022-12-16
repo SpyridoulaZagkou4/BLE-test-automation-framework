@@ -18,15 +18,17 @@ The other libraries used are:
 
 # USAGE
 ## 1st step 
-Add parameters (DB address, CI, Latency, TO, ...) that test will take as input as is illustrated in the picture. The only restriction is to have block titles and titles for attributes and parameters.
+Add parameters (DB address, CI, Latency, TO, ...) to an excel file that test will take as input as is illustrated in the picture. The only restriction is to have block titles and titles for attributes and parameters.
 
 ![image](https://user-images.githubusercontent.com/81852029/208056061-4ec360dd-1da6-4ead-863f-77eec1d91800.png)
 
 ## 2nd step 
-Run python main script
+Save excel file and add the destination path to notebook ```ble_test_automation.py``` in self.excel_path variable
+Then, run python main script 
+```python ble_test_automation.py```
 
-
-
+![Screenshot 2022-12-16 104230](https://user-images.githubusercontent.com/81852029/208058886-f7d7951a-52e3-4760-a511-77276db494fb.png)
+![Screenshot 2022-12-16 104253](https://user-images.githubusercontent.com/81852029/208058936-1afa2b37-abf8-4bad-92b8-a37825ac5381.png)
 
 
 # RESULTS
