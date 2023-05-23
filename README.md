@@ -13,7 +13,7 @@ The other libraries used are:
 
 # USAGE
 ## 1st step 
-Add parameters (DB address, CI, Latency, TO, ...) to an excel file that test will take as input as is illustrated in the picture. The only restriction is to have block titles and titles for attributes and parameters.
+Add parameters (DB address, Connection Interval, Latency, TO, ...) to an excel file that test will take as input as is illustrated in the picture. The only restriction is to have block titles and titles for attributes and parameters.
 
 ![image](https://user-images.githubusercontent.com/81852029/208056061-4ec360dd-1da6-4ead-863f-77eec1d91800.png)
 
