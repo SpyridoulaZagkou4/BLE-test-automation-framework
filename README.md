@@ -1,3 +1,11 @@
+# DESCRIPTION
+BLE test automation framework to support Dialog Semiconductor development platform for Bluetooth Low Energy (BLE) technology:
+  • Excel dynamic parameter input handling
+  • State Machine to track devices progress as connection establishment, parameter exchange, disconnection detection  
+  • WVT (Waves validation tool) for software testing
+  • Logging to multiple destinations
+  • Oven measurements
+  • GUI development using Qt
 
 # REQUIREMENTS
 This framework requires the 3VT testing tool library used by the company to run that is not provided in this repository. The Waves Validation Tool (WVT) – hereafter called 3VT – is a tool for the testing and validation of the RW Bluetooth IP systems.
